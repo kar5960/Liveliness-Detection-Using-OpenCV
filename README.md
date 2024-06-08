@@ -1,3 +1,3 @@
-# loveliness detection 
+# luveliness detection 
 
 liveliness detection of images.
